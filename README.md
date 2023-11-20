@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
 
 
-# Pasos que irá executar #
+# Passos que irá executar #
 
 steps: 
 - name: Instalar npm
