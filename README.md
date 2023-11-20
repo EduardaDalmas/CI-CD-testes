@@ -26,3 +26,9 @@ steps:
     python-version: '3.x'
 
 
+# Sobre o teste #
+1. npm init
+2. npm install --save-dev cypress
+3. npx cypress open
+
+
